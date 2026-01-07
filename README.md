@@ -41,6 +41,19 @@ with a love for **minimal dark tech aesthetics**.
 
 ---
 
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+
+---
+
+<div align="center">
+
+
 🖤 *Soft heart. Sharp mind. Strong code.*
 
 
