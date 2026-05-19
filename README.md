@@ -34,10 +34,10 @@ with a love for **minimal dark tech aesthetics**.
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect
 
-* LinkedIn: https://www.linkedin.com/in/snehxa27/
-* GitHub: https://github.com/snehxa27
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/sneehakarande27)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github)](https://github.com/snehxa27)
 
 
 </div>
