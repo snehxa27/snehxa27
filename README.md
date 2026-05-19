@@ -34,12 +34,11 @@ with a love for **minimal dark tech aesthetics**.
 
 ---
 
-## 🔗 Connect
+## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com/snehxa27)
+* LinkedIn: https://www.linkedin.com/in/snehxa27/
+* GitHub: https://github.com/snehxa27
 
----
 
 </div>
 
